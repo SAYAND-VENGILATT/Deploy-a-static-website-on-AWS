@@ -1,4 +1,6 @@
 ![Alt text](html.png)
+
+
 Static HTML Web App Deployment on AWS
 This project demonstrates hosting a static HTML web application on AWS using EC2 instances and a variety of AWS services to achieve scalability, high availability, and fault tolerance.
 
